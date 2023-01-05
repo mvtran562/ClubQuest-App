@@ -2,6 +2,5 @@
 
 
 ## About
-
-This project is a starting point for a Flutter application.
+A mobile app idea that centralizes clubs/orgs on campus to create new social connections
 
