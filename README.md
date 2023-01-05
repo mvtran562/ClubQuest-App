@@ -1,8 +1,7 @@
-# flutter_app_testing
+# Club Quest APP
 
-A new Flutter project.
 
-## Getting Started
+## About
 
 This project is a starting point for a Flutter application.
 
